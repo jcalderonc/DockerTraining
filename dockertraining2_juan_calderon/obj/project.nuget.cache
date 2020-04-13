@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mcGyE0f9pV2JSLUbd1IYrhXXHcUY0pwX1oHoic2ih4/TuZEygiXYFIqSvkyL0Lj6oAM2x9wfmh/cUfJL7AIhg==",
+  "success": true,
+  "projectFilePath": "C:\\agile\\dockertraining2_juan_calderon\\dockertraining2_juan_calderon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Calderon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

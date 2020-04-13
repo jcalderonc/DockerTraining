@@ -1,0 +1,4 @@
+﻿1>------ Rebuild All started: Project: dockertraining_juan_calderon, Configuration: Debug Any CPU ------
+1>dockertraining_juan_calderon -> C:\agile\dockertraining_juan_calderon\dockertraining_juan_calderon\bin\Debug\netcoreapp2.1\dockertraining_juan_calderon.dll
+1>dockertraining_juan_calderon -> C:\agile\dockertraining_juan_calderon\dockertraining_juan_calderon\bin\Debug\netcoreapp2.1\dockertraining_juan_calderon.Views.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
